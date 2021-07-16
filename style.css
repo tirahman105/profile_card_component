@@ -103,7 +103,7 @@ body{
 	color: #6a6f81;
 }
 hr{
-	opacity: .6;
+	opacity: .4;
 }
 .status{
 	display: flex;
@@ -123,5 +123,5 @@ hr{
 	color: #6a6f81;
 }
 .status div{
-	padding: 30px 25px; 
+	padding: 25px 25px; 
 }
